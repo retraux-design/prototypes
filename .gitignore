@@ -27,3 +27,6 @@ _autosave-*
 
 # Cache files
 fp-info-cache
+
+# Output roots
+**/out/
