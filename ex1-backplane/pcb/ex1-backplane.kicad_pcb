@@ -3520,7 +3520,7 @@
     )
   )
 
-  (gr_text r1 (at 21.925 46.675) (layer F.SilkS) (tstamp 5D28CA4C)
+  (gr_text r1 (at 21.925 46.675) (layer F.SilkS) (tstamp 5D3B6059)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left))
   )
   (gr_text "Retraux Design\nEX1 Backplane\n@benvanik" (at 21.1 50.5) (layer F.SilkS)

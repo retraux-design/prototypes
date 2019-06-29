@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
 LIBS:ex1-backplane-cache
-LIBS:power_proto_pmic-cache
 EELAYER 29 0
 EELAYER END
 $Descr USLetter 11000 8500
